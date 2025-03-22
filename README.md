@@ -3,7 +3,7 @@
 📖 Deskripsi\
 Proyek ini bertujuan untuk menganalisis faktor-faktor yang mempengaruhi kepuasan kerja karyawan berdasarkan dataset People Analytics. Beberapa faktor utama yang dianalisis mencakup work-life balance, lingkungan kerja, beban kerja, tingkat stres, dan jumlah jam tidur.
 
-🎯 Tujuan Analisis\
+🎯 Tujuan Analisis
 ✅ Menentukan faktor yang paling berpengaruh terhadap job satisfaction (rating 1-5).\
 ✅ Mengetahui karakteristik karyawan dengan tingkat kepuasan tinggi (4-5) dan rendah (1-3).\
 ✅ Memberikan wawasan tentang hubungan antara work-life balance, tingkat stres, dan job satisfaction.
@@ -18,15 +18,15 @@ Faktor Organisasi: Jumlah anggota tim, jumlah laporan langsung, pelatihan per ta
 Target Variabel: Job satisfaction (skala 1-5).
 
 🔍 Exploratory Data Analysis (EDA)\
-Analisis yang dilakukan meliputi:\
+Analisis yang dilakukan meliputi:
 1. Pengecekan Data: Melihat missing values, outlier, dan deskripsi statistik dataset.
 2. Korelasi Antar Variabel: Menggunakan matrix correlation untuk melihat hubungan antar fitur.
 
-Visualisasi Data:\
+Visualisasi Data:
 1. Boxplot untuk melihat distribusi job satisfaction berdasarkan work-life balance (wlb).
 2. Heatmap untuk mengidentifikasi fitur yang berkorelasi kuat dengan job satisfaction.
 
-📊 Hasil Analisis\
+📊 Hasil Analisis
 1. Work-life balance memiliki korelasi positif dengan job satisfaction:
   Karyawan dengan work-life balance tinggi (rating 4-5) cenderung lebih puas dengan pekerjaannya.
 2. Stres kerja yang tinggi berdampak negatif terhadap job satisfaction:
